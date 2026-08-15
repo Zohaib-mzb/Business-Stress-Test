@@ -11,7 +11,7 @@ st.set_page_config(
 )
 
 # ── YOUR N8N PRODUCTION WEBHOOK URL ─────────────────────────────
-N8N_WEBHOOK_URL = "PASTE_YOUR_PRODUCTION_WEBHOOK_URL_HERE"
+N8N_WEBHOOK_URL = "https://zohaib-mzb.app.n8n.cloud/webhook/stress-test"
 
 # ── CUSTOM CSS ───────────────────────────────────────────────────
 st.markdown("""
